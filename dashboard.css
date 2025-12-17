@@ -1,0 +1,81 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Page background */
+body {
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  min-height: 100vh;
+}
+
+/* Navbar tweaks */
+.navbar {
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Dashboard heading */
+h3 {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Cards */
+.card {
+  border: none;
+  border-radius: 16px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+}
+
+.card h5 {
+  font-weight: 500;
+  margin-top: 10px;
+  color: #555;
+}
+
+.card p {
+  color: #777;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 25px;
+  padding: 8px 20px;
+  font-size: 14px;
+}
+
+/* Logout button */
+.logout-btn {
+  background: #dc3545;
+  color: #fff !important;
+  padding: 6px 16px;
+  border-radius: 20px;
+}
+
+.logout-btn:hover {
+  background: #b52a37;
+}
+
+/* Responsive spacing */
+@media (max-width: 768px) {
+  h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}
