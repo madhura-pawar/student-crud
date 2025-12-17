@@ -12,7 +12,10 @@ A CRUD-based system to manage student records such as *Add, View, Edit, Update, 
 ### 🔹 Task 2: User Authentication System  
 A secure authentication system that allows users to *Register, Login, access a protected Dashboard, and Logout*.
 
-Both tasks are developed using *PHP & MySQL* and tested locally using *XAMPP*.
+### 🔹 Task 3: Responsive UI + Dashboard
+Implemented a responsive UI with a dynamic dashboard, integrated *navigation bar with profile section, and styled pages for an enhanced user experience*.
+
+all the tasks are developed using *PHP & MySQL* and tested locally using *XAMPP*.
 
 ---
 
@@ -44,6 +47,7 @@ internship-project/
 │   ├── logout.php                   # Logout functionality
 │   ├── config.php                   # Database connection
 │   └── style.css                    # Styling
+│   └── Dashboard.css                # Styling
 │
 ├── database.sql                     # Database tables (students & users)
 └── README.md                        # Project documentation
