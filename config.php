@@ -1,7 +1,17 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "internship_db");
+$host = "localhost";
+$dbname = "internship_db";
+$username = "root";
+$password = "";
 
-if (!$conn) {
-    die("Database connection failed");
+try {
+    $conn = new PDO(
+        "mysql:host=$host;dbname=$dbname;charset=utf8",
+        $username,
+        $password
+    );
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    die("Database connection failed: " . $e->getMessage());
 }
 ?>
