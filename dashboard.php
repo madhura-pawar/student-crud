@@ -22,7 +22,7 @@ if (!isset($_SESSION['user_id'])) {
 include("config.php"); // DB connection
 
 // Total students count fetch
-$sql = "SELECT COUNT(*) as total FROM students";  // students table ka naam check karo
+$sql = "SELECT COUNT(*) as total FROM students";  
 $result = mysqli_query($conn, $sql);
 $data = mysqli_fetch_assoc($result);
 
@@ -63,3 +63,4 @@ $total_students = $data['total'];
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
