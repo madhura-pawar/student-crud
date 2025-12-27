@@ -15,9 +15,9 @@ if (isset($_POST['register'])) {
             VALUES ('$username', '$email', '$password')";
 
     if (mysqli_query($conn, $sql)) {
-        $message = "✅ Register Successfully";
+        $message = " ✅ Register Successfully";
     } else {
-        $message = "❌ Registration Failed";
+        $message = " ❌ Registration Failed";
     }
 }
 ?>
@@ -59,3 +59,4 @@ if (isset($_POST['register'])) {
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
