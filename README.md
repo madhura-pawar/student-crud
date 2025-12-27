@@ -1,5 +1,4 @@
 # Internship Project  
-## Student Management System & User Authentication System
 
 ---
 
