@@ -62,3 +62,24 @@ Implement secure login and logout functionality using PHP and sessions.
 ## Notes
 User authentication is done with PHP sessions. Logout redirects to login page automatically.
 
+---
+# Task 3: Responsive UI & Dashboard
+
+## Objective
+Create a professional and mobile-friendly UI using Bootstrap or Tailwind CSS.
+
+## Features
+- Responsive dashboard (Desktop + Mobile)
+- Navigation bar
+- Profile section
+- CSS improvements for better UI
+
+## Screenshots
+![Dashboard Desktop /profile-section/ navbar view](screenshot/task3/dashboard-desktop.png)
+![Dashboard Mobile View](screenshot/task3/dashboard-mobile.png)
+
+
+## Notes
+- Single dashboard screenshot covers navbar, profile, and CSS improvements.
+- Responsive view is tested on mobile view (Chrome Inspect).
+
