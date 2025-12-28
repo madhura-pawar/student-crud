@@ -31,12 +31,12 @@ Implement Create, Read, Update, Delete (CRUD) operations using PHP and MySQL.
 - Delete records
 
 ## Screenshots
-![Add records](Screenshot/task1/create.png)
-![View Records](Screenshot/task1/create-success.png)
-![Edit Record](Screenshot/task1/edit.png)
-![Update Record](Screenshot/task1/update.png)
-![Before Delete Record](Screenshot/task1/delete-before.png)
-![After Delete Record](Screenshot/task1/delete-after.png)
+![Add records](screenshot/task1/create.png)
+![View Records](screenshot/task1/create-success.png)
+![Edit Record](screenshot/task1/edit.png)
+![Update Record](screenshot/task1/update.png)
+![Before Delete Record](screenshot/task1/delete-before.png)
+![After Delete Record](screenshot/task1/delete-after.png)
 
 ## Notes
 All CRUD operations have been implemented and tested on local server.
