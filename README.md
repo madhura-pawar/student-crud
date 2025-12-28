@@ -41,3 +41,22 @@ Implement Create, Read, Update, Delete (CRUD) operations using PHP and MySQL.
 ## Notes
 All CRUD operations have been implemented and tested on local server.
 
+---
+# Task 2: Login & Logout
+
+## Objective
+Implement secure login and logout functionality using PHP and sessions.
+
+## Features
+- User login authentication
+- Logout functionality with session destruction
+- Redirect to login page after logout
+
+## Screenshots
+![Login Page](screenshots/task2/login.png)
+![Dashboard After Login](screenshots/task2/dashboard.png)
+![Logout Redirect](screenshots/task2/logout-redirect.png)
+
+## Notes
+User authentication is done with PHP sessions. Logout redirects to login page automatically.
+
