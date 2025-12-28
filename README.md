@@ -38,7 +38,7 @@ Implement Create, Read, Update, Delete (CRUD) operations using PHP and MySQL.
 ![Before Delete Record](screenshot/task1/delete-before.png)
 ![After Delete Record](screenshot/task1/delete-after.png)
 
-## Notes
+## Note:
 All CRUD operations have been implemented and tested on local server.
 
 ---
@@ -59,7 +59,7 @@ Implement secure login and logout functionality using PHP and sessions.
 ![Dashboard After Login](screenshot/task2/dashboard.png)
 ![Logout Redirect](screenshot/task2/logout.png)
 
-## Notes
+## Note:
 User authentication is done with PHP sessions. Logout redirects to login page automatically.
 
 ---
@@ -75,7 +75,7 @@ Create a professional and mobile-friendly UI using Bootstrap or Tailwind CSS.
 - CSS improvements for better UI
 
 ## Screenshots
-![Dashboard Desktop View](screenshot/task3/dashboard-desktop.png)
+![Dashboard Dekstop View](screenshot/task3/dashboard-dekstop.png)
 ![Dashboard Mobile View](screenshot/task3/dashboard-mobile.png)
 
 
