@@ -99,8 +99,8 @@ Deploy the web application on free hosting and test deployment.
 ![Hosting Dashboard](screenshot/task4/hosting-dashboard.png)
 ![Hosting Control Panel with File Manager](screenshot/task4/hosting-control-panel-task1.png)
 ![Hosting Control Panel with File Manager](screenshot/task4/hosting-control-panel-task2.png)
-![Database Import student table](screenshot/task4/database-import.png)
-![Database Import user table](screenshot/task4/database-import.png)
+![Database Import student table](screenshot/task4/database-import-student.png)
+![Database Import user table](screenshot/task4/database-import-user.png)
 ![Live Website](screenshot/task4/index.png)
 ![Live Website](screenshot/task4/register.png)
 
