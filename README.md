@@ -106,7 +106,7 @@ Deploy the web application on free hosting and test deployment.
 ![Live Website](screenshot/task4/register.png)
 
 ## Live Website
-[Click here to open the live website](https://student-crud.infinityfreeapp.com/task1/index.php)
+[Click here to open the live website](https://student-crud.infinityfreeapp.com/task1/index.php) .PHP_EOL.
 [Click here to open the live website](https://student-crud.infinityfreeapp.com/task2/register.php)
 
 ## Notes
