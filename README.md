@@ -116,8 +116,7 @@ Deploy the web application on free hosting and test deployment.
 🛑Chrome may show a “Dangerous / Not Secure” warning when opening this project.
 This is a browser alert only. The project is completely safe and created for educational purposes.
 
-The project is accessible on desktop browsers.
-Mobile browsers may block the site due to SSL and free hosting restrictions.
-The application is fully functional and tested.
-Source code and screenshots are provided on GitHub.
+This task is dependent on other modules.
+For avoiding code duplication and dependency issues,
+the complete integrated source code is provided in Task-4.
 ---
