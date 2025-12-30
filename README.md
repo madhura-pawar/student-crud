@@ -83,3 +83,41 @@ Create a professional and mobile-friendly UI using Bootstrap or Tailwind CSS.
 - Single dashboard screenshot covers navbar, profile, and CSS improvements.
 - Responsive view is tested on mobile view (Chrome Inspect).
 
+---
+# Task 4: Deploy the Web Application
+
+## Objective
+Deploy the web application on free hosting and test deployment.
+
+## Features
+- Deployed using InfinityFree (or 000webhost)
+- Database exported & imported using phpMyAdmin
+- Live website link
+- Hosting dashboard proof
+
+## Screenshots
+![Hosting Dashboard](screenshot/task4/hosting-dashboard.png)
+![Hosting Control Panel with File Manager](screenshot/task4/hosting-control-panel-task1.png)
+![Hosting Control Panel with File Manager](screenshot/task4/hosting-control-panel-task2.png)
+![Database Import student table](screenshot/task4/database-import.png)
+![Database Import user table](screenshot/task4/database-import.png)
+![Live Website](screenshot/task4/index.png)
+![Live Website](screenshot/task4/register.png)
+
+## Live Website
+[Click here to open the live website](https://student-crud.infinityfreeapp.com/task1/index.php)
+[Click here to open the live website](https://student-crud.infinityfreeapp.com/task2/register.php)
+
+## Notes
+- File Manager shows uploaded project files.
+- Database tables imported successfully.
+- Dashboard and CRUD functionality works on live site.
+
+🛑Chrome may show a “Dangerous / Not Secure” warning when opening this project.
+This is a browser alert only. The project is completely safe and created for educational purposes.
+
+The project is accessible on desktop browsers.
+Mobile browsers may block the site due to SSL and free hosting restrictions.
+The application is fully functional and tested.
+Source code and screenshots are provided on GitHub.
+---
